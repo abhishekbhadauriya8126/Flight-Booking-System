@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\ABHBHADA\Desktop\Final Project\spring-boot-security"/>
+			<item value="C:\Users\ABHBHADA\Desktop\Final Project\paymentService"/>
+			<item value="C:\Users\ABHBHADA\Desktop\Final Project\apigateway"/>
+			<item value="C:\Users\ABHBHADA\Desktop\Final Project\Api-Gateway"/>
+			<item value="C:\Users\ABHBHADA\Desktop\Final Project\AdminFlightDetails"/>
+			<item value="C:\Users\ABHBHADA\Desktop\Final Project\Eureka-Server"/>
+			<item value="C:\Users\ABHBHADA\Desktop\Final Project\SearchFlights"/>
+			<item value="C:\Users\ABHBHADA\Desktop\Final Project\BookTicket"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
