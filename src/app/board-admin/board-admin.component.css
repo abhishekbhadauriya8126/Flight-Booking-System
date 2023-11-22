@@ -1,0 +1,46 @@
+/* Add styles to the form container */
+.dm{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.container {
+    width: 50%;
+    padding: 20px;
+    border: 3px solid #5edfe1;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  /* Style form labels */
+  label {
+    font-weight: bold;
+  }
+  
+  /* Style form input fields */
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  /* Style the checkbox labels */
+  label.checkbox-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Style the submit button */
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  

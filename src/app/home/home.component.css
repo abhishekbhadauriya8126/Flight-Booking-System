@@ -1,0 +1,19 @@
+/* home.component.css */
+.dm {
+  position: relative;
+  left: 55%;
+  height: 500px;
+  width: 45%;
+  background-color: rgba(255, 255, 255, 0.2);
+  
+  }
+
+  .tab{
+  position: relative;
+  height: 200px;
+  width: 100%;
+  
+  background-color: rgba(255, 255, 255, 0.2);
+  
+  }
+
